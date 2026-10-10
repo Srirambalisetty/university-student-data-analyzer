@@ -1,0 +1,16 @@
+Student_ID,Semester,Department,Credits_Completed,GPA,Enrollment_Status
+101,Fall 2026,Computer Science,24,3.4,Enrolled
+102,Fall 2026,Data Science,18,2.8,Enrolled
+103,Fall 2026,Computer Science,30,3.8,Enrolled
+104,Fall 2026,Data Science,21,3.0,Enrolled
+105,Fall 2026,Computer Science,27,3.6,Enrolled
+106,Spring 2027,Computer Science,15,3.1,Enrolled
+107,Spring 2027,Data Science,24,3.5,Enrolled
+108,Spring 2027,Computer Science,33,3.7,Enrolled
+109,Spring 2027,Data Science,18,2.9,Enrolled
+110,Spring 2027,Computer Science,27,3.2,Enrolled
+111,Fall 2026,Data Science,15,3.3,Enrolled
+112,Spring 2027,Computer Science,21,3.0,Enrolled
+113,Fall 2026,Data Science,30,3.8,Enrolled
+114,Spring 2027,Computer Science,24,3.6,Enrolled
+115,Fall 2026,Data Science,12,2.7,Enrolled
